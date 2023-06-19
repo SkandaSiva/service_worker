@@ -141,11 +141,11 @@ def process_website(url):
 
 if __name__ == "__main__":    
     start_time = time.time()
-    filename1 = "tranco_2019_100000.txt"    
+    filename1 = "tranco_2019_3.txt"    
     #filename1 = "1000_urls.txt"
-    filename2 = "proper_uri_100000.txt"
-    filename3 = "updated_sw_check_100000.csv"
-    filename4 = "service_worker_scripts_100000"
+    filename2 = "proper_uri_3.txt"
+    filename3 = "updated_sw_check_3.csv"
+    filename4 = "service_worker_scripts_3"
     filename5 = "sw_beautified"
     full_list=[]
 
